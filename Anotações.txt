@@ -25,4 +25,12 @@ git push -u origin main
 04 - Operadores 
      	Operadires.
 		Operador ternario.
-		Templote literal.
+		Template literal.
+05 - funções
+		Parâmentros e argumentos.
+		Tipos de funções.
+			expressao de funcao
+		Parâmentros.
+			utilizando paramentros
+		arrow function.
+		estrutura do "if".
