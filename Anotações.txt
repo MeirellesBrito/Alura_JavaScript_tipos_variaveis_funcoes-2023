@@ -26,4 +26,4 @@ git push -u origin main
 		Operador ternario.
 		Templote literal.
 		
-		
+		   teste
