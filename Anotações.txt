@@ -1,0 +1,29 @@
+// git status
+// git add . 
+// git status
+git commit -m ""
+git push -u origin main
+----------------------------------------------------------
+
+01 - JavaScript e o NodeJS
+	js | Nodejs
+	console.log
+	console API
+
+02 - Tipos Primitivos
+	Tipo number.
+	Tipo String.
+	Tipo Boolean
+	Tipos null e undefiend
+	
+03 - Declarando variaveis
+	Variaves.
+	var, let, const.
+	Truthy e falsy.
+	Conversão de tipos
+    
+04 - Operadores 
+		Operador ternario.
+		Templote literal.
+		
+		
