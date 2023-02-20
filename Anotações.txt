@@ -1,3 +1,6 @@
+JavaScript: Tipos, Variaveis e funções
+----------------------------------------------------------
+
 // git status
 // git add . 
 // git status
