@@ -23,7 +23,6 @@ git push -u origin main
 	Conversão de tipos
     
 04 - Operadores 
+     	Operadires.
 		Operador ternario.
 		Templote literal.
-		
-		   teste
